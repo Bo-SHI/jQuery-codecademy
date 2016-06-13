@@ -1,1 +1,3 @@
-# jQuery-codecademy
+### jQuery-codecademy
+
+> Jquery learning process in codecademy!
